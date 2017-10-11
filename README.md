@@ -11,7 +11,7 @@ This is a project building simple storefront website. The plan will be to connec
 * CSS, HTML, Javascript, Adobe products for design purposes
 
 ## Next Steps:
-* Finishing project then connecting to account to create a self serving site for selling clothes or something of the sorts.
+* Finish most of the pages and begin shopify integration.
 
 
 
