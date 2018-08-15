@@ -28,6 +28,21 @@ html {
     font-weight: bold;
 }
 
+.btn-texts {
+    background-color: none;
+        border: none;
+        padding: 0px 3px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 2px 8px;
+        transition-duration: .4s;
+        cursor: pointer;
+        font-weight: bold;
+}
+
+
 .btn-1{
     background-color: none;
     color: gray;
@@ -155,6 +170,13 @@ p.txt2{
     color: Gray;
     background-color: none;
     width: 50%;
+}
+
+p.txt3{
+    font-family: headerText;
+        color: Black;
+        background-color: none;
+        width: 50%;
 }
 
 .holder {
