@@ -94,6 +94,14 @@ color: grey
 
 }
 
+.mypic2{
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
+
+}
+
 .image-cropper {
     width: 300px;
     height: 300px;
@@ -115,6 +123,17 @@ color: grey
     border-radius: 250px;
     overflow:hidden;
 }
+
+.image-cropper3{
+    height: 288px;
+    width: 530px;
+    position: relative;
+    border: 2px solid none;
+    -webkit-border-radius: 250px;
+    -moz-border-radius: 250px;
+    border-radius: 250px;
+    overflow:hidden;
+}}
 
 backgroundColor{
     background: linear-gradient(#66ffff, #3399ff);
@@ -177,6 +196,7 @@ p.txt3{
         color: Black;
         background-color: none;
         width: 50%;
+        display: inline-block;
 }
 
 .holder {
@@ -226,7 +246,7 @@ hr.custom-new{
 }
 
 .imageContainer1{
-
+           display: inline-block;
            position: relative;
            text-align: center;
            color: white;
@@ -251,9 +271,13 @@ hr.custom-new{
 }
 
 .row {
-  display: flex;
+  display: inline-block;
   flex-wrap: wrap;
   padding: 0 4px;
+}
+
+.row img {
+    display: inline-block;
 }
 
 /* Create two equal columns that sits next to each other */
